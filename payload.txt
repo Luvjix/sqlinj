@@ -1,2 +1,1 @@
- 
-' UNION SELECT name, sql FROM sqlite_master WHERE type='table'--
+' UNION SELECT key, value FROM config--
